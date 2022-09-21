@@ -20,4 +20,6 @@ node
   {
     echo "This is Deploy Stage"
   }
+  stage('Test')
+  {}
 }
